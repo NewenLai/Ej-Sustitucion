@@ -1,5 +1,5 @@
-original = "tizas"
-nueva = "yesos"
+original = input("palabra original: ")
+nueva = input("Nueva palabra: ")
 
 nombreF = "texto.txt"
 
